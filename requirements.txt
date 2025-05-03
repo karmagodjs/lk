@@ -1,0 +1,7 @@
+flask
+pillow
+mediapipe
+opencv-python
+numpy
+scikit-learn
+screeninfo 
