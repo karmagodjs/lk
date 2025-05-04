@@ -1,0 +1,1 @@
+gunicorn web_isl_recognition:app
